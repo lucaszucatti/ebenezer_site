@@ -1,0 +1,5 @@
+#EXTM3U
+
+
+#EXTINF:0 tvg-logo="http://www.onlinenatv.com/img/globo-ao-vivo.png" group-title="TV ABERTA",
+http://162.244.80.233/loadbalance/globo-sp/loadbalance/tvglobosaopaulo-240p/l_391_2588866_336.ts
